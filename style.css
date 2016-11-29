@@ -1,0 +1,33 @@
+div {
+   	font-family: Century Gothic;
+  	font-size: 45px;
+      font-weight: bold;
+      color: yellow;
+      text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
+      }
+
+      html{
+		background: url(bg.jpg) no-repeat center center fixed; 
+background-size: cover;
+}
+
+
+.outer {
+	display: table;
+	width: 100%;
+	height: 100%;
+				}
+
+.inner {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+				}
+
+.number {
+  	font-size: 320px;
+      }

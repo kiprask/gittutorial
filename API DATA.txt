@@ -1,0 +1,1 @@
+http://api.openweathermap.org/v3/uvi/24,55/current.json?appid=c6305128c0972219019b5f073fdfa15c

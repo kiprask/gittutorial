@@ -1,4 +1,4 @@
-var UVIndexURL = 'http://api.openweathermap.org/v3/uvi/10,84/current.json?appid=c6305128c0972219019b5f073fdfa15c';
+var UVIndexURL = 'https://api.openweathermap.org/v3/uvi/10,84/current.json?appid=c6305128c0972219019b5f073fdfa15c';
 
 
 $.ajax({
